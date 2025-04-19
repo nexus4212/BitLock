@@ -44,7 +44,6 @@ A secure password manager with a graphical user interface, 512-bit encryption.
 
 - `bitlock/`: Main package directory
   - `main.py`: Core application code
-  - `__init__.py`: Package initialization
 - `data/`: Directory for encrypted data (created automatically)
   - `salt.bin`: Salt used for key derivation
   - `passwords.enc`: Encrypted password database
