@@ -55,3 +55,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## Images
+![Setup](assets/setup.png)
+![Dashboard](assets/dashboard.png)
+![Password Generator](assets/passwordgenerator.png)
