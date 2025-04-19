@@ -1,6 +1,6 @@
 # BitLock Password Manager
 
-A secure password manager with a graphical user interface, 512-bit encryption.
+A secure password manager with a graphical user interface, 256-bit encryption.
 
 ## Features
 
