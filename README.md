@@ -58,6 +58,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 ## Images
-![Setup](assets/setup.png)
-![Dashboard](assets/dashboard.png)
-![Password Generator](assets/passwordgenerator.png)
+![Setup](images/setup.png)
+![Dashboard](images/dashboard.png)
+![Password Generator](images/passwordgenerator.png)
